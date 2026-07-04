@@ -1,0 +1,6 @@
+ajwa,urdu,Pending
+ajwa,islamiyat,Pending
+Ajwa Shahid,python,Completed
+Ajwa Shahid,c++,Completed
+Ajwa Shahid,HTML,Completed
+Ajwa Shahid,java script,Completed
